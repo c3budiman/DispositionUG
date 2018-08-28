@@ -1,0 +1,6 @@
+PR :
+ajax invoice
+ lpd.data_state <> 2 => lpd.data_state = 1
+
+
+kalo data masih ada update! kalo ngga insert lagi....
